@@ -1,0 +1,43 @@
+body{
+  width:100%;
+  font-family: "Allerta Stencil", Sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+div.main{
+  width:60%;
+  height:300px;
+  margin:50px auto;
+}
+/* Main 1 */
+div.main1{
+  width:100%;
+  margin-top:60px;
+}
+div.main1 input{
+  width:72%;
+  display:inline;
+  padding-bottom:10px
+  
+}
+button{
+  width:25%;
+  margin:0px;
+  line-height:25px;
+  border-width: 3px;
+}
+/*End Main 1*/
+
+div.main2{
+  
+  width:100%;
+  text-align:center;
+  margin-top:30px;
+}
+li{
+  margin-bottom: 10px;
+}
+a{
+  text-decoration: none;
+}
